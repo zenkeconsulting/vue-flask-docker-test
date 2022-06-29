@@ -1,0 +1,15 @@
+version: "3.7"
+services:
+  backend:
+    build:
+      context: backend
+      target: development
+    ports:
+      - 80:80
+
+  frontend:
+    build:
+      context: frontend
+    ports:
+      - 8080:80
+    
