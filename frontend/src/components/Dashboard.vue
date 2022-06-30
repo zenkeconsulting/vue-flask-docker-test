@@ -4,7 +4,7 @@
 			<div class="col-12 md:col-4">
 				<div class="card widget-overview-box widget-overview-box-1">
 					<span class="overview-title">
-						CONVERSATION RATE
+						CONVERSATIO N RATE
 					</span>
 					<div class="flex justify-content-between">
 						<div class="overview-detail flex justify-content-between">

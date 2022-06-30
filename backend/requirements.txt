@@ -9,3 +9,4 @@ intuit_oauth
 requests
 pandas
 pdfkit
+Flask-CORS

@@ -24,7 +24,7 @@
                     <router-link to="/">
                         <Button type="button" label="Login"></Button>
                     </router-link>
-                    <span>Don’t have an account?<a>Sign-up here</a></span>
+                    <span>Don’t have an acco unt?<a>Sign-up here</a></span>
                 </div>
             </div>
 
